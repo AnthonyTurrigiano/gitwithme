@@ -26,7 +26,8 @@ const app = express();
 /*
 	point to static files
 */
-app.use("/public",express.static("./public"));
+app.use("/public", express.static("./public"));
+app.use("/bower_components", express.static("./bower_components"));
 
 /*
 	index route
