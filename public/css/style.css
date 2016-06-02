@@ -20,3 +20,11 @@ body{
     font-weight: 800;
     text-shadow: 0 3px rgba( 0, 0, 0, 0.15);
 }
+
+.posts{
+    padding-top: 30px;
+}
+
+.article{
+    margin-bottom: 50px;
+}
