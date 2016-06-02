@@ -28,3 +28,7 @@ body{
 .article{
     margin-bottom: 50px;
 }
+
+.btn-primary{
+    background: #34495e;
+}
